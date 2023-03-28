@@ -25,7 +25,6 @@ public class WebConfig extends WebMvcConfigurationSupport {
 
     /**
      * 拓展mvc框架的消息转化器
-     *
      * @param converters
      */
     @Override

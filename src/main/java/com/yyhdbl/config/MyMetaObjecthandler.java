@@ -15,7 +15,6 @@ public class MyMetaObjecthandler implements MetaObjectHandler {
 
     /**
      * 插入操作 自动填充
-     *
      * @param metaObject
      */
     @Override
@@ -29,7 +28,6 @@ public class MyMetaObjecthandler implements MetaObjectHandler {
 
     /**
      * 更新操作 自动填充
-     *
      * @param metaObject
      */
     @Override
